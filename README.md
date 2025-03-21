@@ -1,4 +1,3 @@
-
 # Cloud Security Lab 1: Linux Commands Study
 
 ## Introduction to Linux
@@ -19,6 +18,7 @@ ls
 ```
 
 **Output:**
+![Screenshot 2025-03-07 085959](https://github.com/user-attachments/assets/00978004-df9e-42af-ba4f-8923efeeefce)
 
 ### 2. `pwd` Command
 
@@ -30,6 +30,8 @@ pwd
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/d1ca84de-ec3d-4730-abb8-cf338da9fc63)
+
 
 ### 3. `mkdir` Command
 
@@ -41,6 +43,7 @@ mkdir <directory_name>
 ```
 
 **Output:**
+![Screenshot 2025-03-07 090435](https://github.com/user-attachments/assets/4331bcf8-48be-4547-8bd3-f27c4a34f281)
 
 ### 4. `rmdir` Command
 
@@ -52,6 +55,7 @@ rmdir <directory_name>
 ```
 
 **Output:**
+![Screenshot 2025-03-07 090510](https://github.com/user-attachments/assets/52f64a41-4dae-4270-85bd-c8f19fc00043)
 
 ### 5. `cd` Command
 
@@ -63,6 +67,8 @@ cd <directory_name>
 ```
 
 **Output:**
+![Screenshot 2025-03-07 092627](https://github.com/user-attachments/assets/37365c06-a640-42c2-96a7-19b879446509)
+
 
 ### 6. `cat` Command
 
@@ -74,6 +80,8 @@ cat [OPTION]... [FILE]...
 ```
 
 **Output:**
+![Screenshot 2025-03-07 093007](https://github.com/user-attachments/assets/41806e58-c5b2-48ee-82d3-fc42b2c5a0ee)
+
 
 ### 7. `cp` Command
 
@@ -118,6 +126,8 @@ mv <file_name> <directory_path>
 ```
 
 **Output:**
+![Screenshot 2025-03-07 093331](https://github.com/user-attachments/assets/11e2d878-1f07-4c5e-9395-0039f6688183)
+
 
 ### 11. `rename` Command
 
@@ -140,6 +150,8 @@ head <file_name>
 ```
 
 **Output:**
+![Screenshot 2025-03-07 093815](https://github.com/user-attachments/assets/cd71e530-8c8a-476b-a361-6959b9d6fc32)
+
 
 ### 13. `tail` Command
 
@@ -151,6 +163,8 @@ tail <file_name>
 ```
 
 **Output:**
+![Screenshot 2025-03-07 093835](https://github.com/user-attachments/assets/de484f84-0ad2-4bf6-8b58-8e0bc9118aef)
+
 
 ### 14. `id` Command
 
@@ -162,6 +176,7 @@ id
 ```
 
 **Output:**
+![Screenshot 2025-03-07 094408](https://github.com/user-attachments/assets/2baa67c0-8fda-48ad-88e6-831fd907e518)
 
 ### 15. `grep` Command
 
@@ -341,3 +356,4 @@ find <directory> -name <file_name>
 **Output:**
 
 ## Result
+Hence all the linux commands are executed and verified successfully
